@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on: not employed, still learning
+- 🔭 I’m currently working on: unemployed, still learning
 - 🌱 I’m currently learning: JavaScript and C#
 - 👯 I’m looking to collaborate on:
 - 🤔 I’m looking for help with:effectively learning
